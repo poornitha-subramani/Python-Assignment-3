@@ -29,7 +29,7 @@ A program that calculates **Body Mass Index (BMI)** using a user-defined functio
 
 ## 🛠️ Technologies Used
 
-- Python 3
+- Python 
 - Random Module
 - Loops
 - Conditional Statements
@@ -47,3 +47,17 @@ Python-Assignment-3/
 ├── Task_2_Multiplication_Table.py
 ├── Task_3_BMI_Calculator.py
 └── README.md
+
+📚 Learning Outcomes
+
+Through this assignment, I practiced:
+Using while and for loops
+Applying conditional statements
+Using break and continue
+Creating and calling functions
+Passing arguments to functions
+Returning values from functions
+Working with user input
+Performing mathematical calculations
+Formatting program output
+Building simple interactive Python programs
