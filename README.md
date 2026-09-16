@@ -40,7 +40,6 @@ A program that calculates **Body Mass Index (BMI)** using a user-defined functio
 
 ## 📂 Project Structure
 
-```text
 Python-Assignment-3/
 │
 ├── Task_1_Number_Guessing_Game.py
@@ -48,7 +47,7 @@ Python-Assignment-3/
 ├── Task_3_BMI_Calculator.py
 └── README.md
 
-📚 Learning Outcomes
+📚 Learning Outcomes:
 
 Through this assignment, I practiced:
 Using while and for loops
